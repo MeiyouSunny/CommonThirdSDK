@@ -55,3 +55,6 @@
 ### 事件总线
 - EventBus
 - Otto
+
+### 底部导航
+- BottomNavigation
